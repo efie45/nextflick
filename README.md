@@ -1,6 +1,6 @@
 # NextFlick
 
-WhichFlick is a movie rating and suggestion app created to explore several programming languages and concepts, as well as gain experience designing and building applications from the ground up. 
+NetxFlick is a movie rating and suggestion app created to explore several programming languages and concepts, as well as gain experience designing and building applications from the ground up. 
 
 ## Concepts & Languages
 
