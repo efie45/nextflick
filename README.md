@@ -26,3 +26,6 @@ The purpose of building this app is to explore/master various programming concep
 - API consumption and design
 - Design patterns
 - Mobile app development
+  
+## Follow along
+[Reflections on the process, lessons learned, good resources, etc...](./reflections.md)
