@@ -4,6 +4,8 @@ Lessons learned along the way, tips and tricks for later use, and resources I fo
 
 ## Resources
 
+I am also tracking the resources I find and my progress working through them [in this project](https://github.com/efie45/nextflick/projects/2)
+
 ### Git  
 
 [Atlassian tutorial](https://www.atlassian.com/git/tutorials)  
